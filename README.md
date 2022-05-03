@@ -1,2 +1,2 @@
-# Yunyx
-Discord Bot
+# Discord bot
+made with discord.ts
