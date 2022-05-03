@@ -1,4 +1,4 @@
-import { CommandInteraction, GuildMember, User } from 'discord.js'
+import { CommandInteraction, GuildMember } from 'discord.js'
 import { Discord, Slash, SlashGroup, SlashOption } from 'discordx'
 
 @Discord()
